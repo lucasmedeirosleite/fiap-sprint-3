@@ -41,3 +41,4 @@ ENV/
 # Claude
 .claude/
 CLAUDE.md
+SCRIPT.md
