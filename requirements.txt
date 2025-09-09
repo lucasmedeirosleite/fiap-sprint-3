@@ -1,0 +1,18 @@
+# Machine Learning and Data Science
+pandas==2.3.2
+numpy==2.3.2
+scikit-learn==1.7.1
+scipy==1.16.1
+
+# Visualization
+matplotlib==3.10.6
+seaborn==0.13.2
+plotly==6.3.0
+
+# Note: Run the following command to install all dependencies:
+# pip install -r requirements.txt
+
+# To create a virtual environment:
+# python3 -m venv venv
+# source venv/bin/activate  # On macOS/Linux
+# venv\Scripts\activate     # On Windows
