@@ -288,3 +288,7 @@ O modelo foi desenvolvido para prever valores futuros de temperatura baseando-se
 - Adicionar features meteorológicas externas
 - Desenvolver modelo ensemble combinando múltiplos algoritmos
 - Implementar aprendizado online para adaptação contínua
+
+## Vídeo
+
+[Aqui](https://www.youtube.com/watch?v=lmOc_-B2C5o) se encontra o link para o vídeo no Youtube
